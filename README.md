@@ -225,18 +225,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Data Science Community** for inspiration and resources
 - **Open Source Contributors** for various libraries used
 
-## 📞 Contact
-
-### Ansari Inaamurrahaman
-- 📧 Email: inaamurrhaman219@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ansari-inaamurrahaman)
-- 🐙 GitHub: [@ANSARI-INAAMURRAHAMAN](https://github.com/ANSARI-INAAMURRAHAMAN)
-
-### Anshul Bajaj
-- 📧 Email: [Contact for details]
-- 💼 LinkedIn: [Contact for details]
-- 🐙 GitHub: [@Bajaj9](https://github.com/Bajaj9)
-
 ---
 
 ⭐ **Star this repo if you found it helpful!** ⭐
